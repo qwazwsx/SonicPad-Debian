@@ -1,3 +1,6 @@
+## This fork has been merged upstream to [Jpe230/SonicPad-Debian](https://github.com/Jpe230/SonicPad-Debian/). See upstream for the lastest instructions. This document is presented as-is for historical purposes.
+
+
 <p align="center">
   <a href="https://github.com/Jpe230/SonicPad-Debian/" title="SonicPad Logo">
     <img src="https://github.com/Jpe230/SonicPad-Debian/assets/6202305/ce559b28-9835-4447-809d-594a5bb70847" width="200px" alt="SonicPad Logo"/>
